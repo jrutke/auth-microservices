@@ -1,0 +1,12 @@
+
+]
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(”¹ëÂ8÷¾‰.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¿ºº‚.
+]
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(×ó’û8ƒåë.
+]
+java:S1128"@Remove this unused import 'rutke.julio.gptw.core.model.Example'.(‰ÚÊô8‹ÔĞ.
+W	java:S125("<This block of commented-out lines of code should be removed.(à—48ûÏˆ.
+C
+java:S1452V"&Remove usage of generic wildcard type.(í´‰–8¶Ã‹.

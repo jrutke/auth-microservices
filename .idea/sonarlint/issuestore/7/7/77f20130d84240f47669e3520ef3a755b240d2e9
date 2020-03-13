@@ -1,0 +1,13 @@
+
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¿ËÛ›ûÿÿÿÿ
+E
+java:S1128
+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+N	java:S106&"9Replace this use of System.out or System.err by a logger.( ´ù˜
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÚÈÀÅ
+†
+java:S1130"kRemove the declaration of thrown exception 'org.hibernate.HibernateException' which is a runtime exception.(ä²›øÿÿÿÿ
+@
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
